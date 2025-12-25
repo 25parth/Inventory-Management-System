@@ -11,3 +11,5 @@ The project is implemented using Core Java and follows Object-Oriented Programmi
 The application follows a menu-driven design, making it simple and user-friendly even for non-technical users. It is packaged as an executable JAR file, allowing easy deployment and execution on any system with a Java Runtime Environment. The system is designed to be extensible, with future enhancements such as file-based persistence, database integration using JDBC, or a graphical user interface possible.
 
 Overall, the Inventory Management System serves as a practical college-level project that demonstrates strong Java fundamentals, clean code design, and real-world problem-solving skills.
+
+<img width="918" height="605" alt="image" src="https://github.com/user-attachments/assets/37608228-0220-4df5-b865-2a4589e8f094" />
